@@ -21,6 +21,6 @@ class Funcionario {
 
     fun incrementarHoras(incremento: Double){
 
-        valorPorHora += incremento
+        horasTrabalhadas += incremento
     }
 }
